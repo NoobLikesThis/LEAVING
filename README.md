@@ -19,7 +19,7 @@
 ----
 
 Fishstrap is a Bloxstrap fork aiming to enhance some of the features.
-NOTE: THIS FORK IS A TEST TO GET EARLY VERSIONS OF FISHSTRAP, BUGS MAY HAPPEN.
+###### NOTE: THIS FORK IS A TEST TO GET EARLY VERSIONS OF FISHSTRAP, BUGS MAY HAPPEN.
 
 Found any bugs? Submit an [issue](https://github.com/returnrqt/bloxstrap/issues) or create bug report in our [discord server](https://discord.gg/xSsamjAU84).
 
