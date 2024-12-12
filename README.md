@@ -1,25 +1,6 @@
-
-
-
-<p align="center">
-    <img src="https://github.com/returnrqt/bloxstrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420">
-    <img src="https://github.com/returnrqt/bloxstrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="420">
-</p>
-
-<div align="center">
-
-[![License][shield-repo-license]][repo-license]
-[![Downloads][shield-repo-releases]][repo-releases]
-[![Version][shield-repo-latest]][repo-latest]
-[![Discord][shield-discord-server]][discord-invite]
-![Star][shield-repo-stars]
-
-</div>
-
-----
-
-Fishstrap is a Bloxstrap fork aiming to enhance some of the features.
-###### NOTE: THIS FORK IS A TEST TO GET EARLY VERSIONS OF FISHSTRAP, BUGS MAY HAPPEN.
+## Projecturly
+### a test to get early access versions.
+###### NOTE: THIS FORK IS A TEST TO GET EARLY VERSIONS OF 2 BOOTSTRAPERS, FISHSTRAP AND BLOXSTRAP, BUGS MAY HAPPEN.
 
 Found any bugs? Submit an [issue](https://github.com/returnrqt/bloxstrap/issues) or create bug report in our [discord server](https://discord.gg/xSsamjAU84).
 
